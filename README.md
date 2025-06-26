@@ -91,6 +91,3 @@ The app requires these environment variables:
 - Gemini Pro
 - Llama 3.1 8B
 
-## License
-
-MIT License - feel free to use and modify for your projects.
