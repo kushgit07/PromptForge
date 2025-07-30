@@ -1,6 +1,6 @@
 # PromptForge - AI-Powered Prompt Engineering Tool
 
-An intelligent prompt engineering tool that automatically applies proven frameworks (RSTI, TCREI, TFCDC) to transform simple inputs into sophisticated, effective .
+An intelligent prompt engineering tool that automatically applies proven frameworks (RSTI, TCREI, TFCDC) to transform simple inputs into sophisticated, effective prompts .
 
 ## Features
 
